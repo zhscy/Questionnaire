@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colleges">
+        <item></item>
+        <item>农学院</item>
+        <item>林学与风景学院</item>
+        <item>园艺学院</item>
+        <item>兽医学院</item>
+        <item>动物科学学院</item>
+        <item>资源环境学院</item>
+        <item>海洋学院</item>
+        <item>生命科学学院</item>
+        <item>工程学院</item>
+        <item>食品学院</item>
+        <item>水利与土木学院</item>
+        <item>材料与能源学院</item>
+        <item>数学与信息学院 软件学院</item>
+        <item>电子工程学院</item>
+        <item>经济管理学院</item>
+        <item>公共管理学院</item>
+        <item>人文与法学院</item>
+        <item>外国语学院</item>
+        <item>艺术学院</item>
+
+    </string-array>
+</resources>

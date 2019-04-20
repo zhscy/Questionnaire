@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="title">调查问卷</string>
+
+    <string name="label1">1.你的姓名*</string>
+    <string name="label2">2.出生日期*</string>
+    <string name="label3">3.性别*</string>string
+    <string name="label4">4.院系*</string>
+    <string name="label5">5.手机号码*</string>
+    <string name="label6">6.对饭堂是否满意*</string>
+    <string name="label7">7.建议*</string>
+</resources>
